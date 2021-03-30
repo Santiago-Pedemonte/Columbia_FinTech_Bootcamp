@@ -1,0 +1,544 @@
+date, fng_value,fng_classification
+29-07-2019,19,Extreme Fear
+28-07-2019,16,Extreme Fear
+27-07-2019,47,Neutral
+26-07-2019,24,Extreme Fear
+25-07-2019,42,Fear
+24-07-2019,20,Extreme Fear
+23-07-2019,40,Fear
+22-07-2019,42,Fear
+21-07-2019,42,Fear
+20-07-2019,34,Fear
+19-07-2019,42,Fear
+18-07-2019,40,Fear
+17-07-2019,19,Extreme Fear
+16-07-2019,34,Fear
+15-07-2019,16,Extreme Fear
+14-07-2019,61,Greed
+13-07-2019,65,Greed
+12-07-2019,33,Fear
+11-07-2019,62,Greed
+10-07-2019,83,Extreme Greed
+09-07-2019,84,Extreme Greed
+08-07-2019,74,Greed
+07-07-2019,67,Greed
+06-07-2019,72,Greed
+05-07-2019,67,Greed
+04-07-2019,76,Extreme Greed
+03-07-2019,79,Extreme Greed
+02-07-2019,63,Greed
+01-07-2019,65,Greed
+30-06-2019,78,Extreme Greed
+29-06-2019,74,Greed
+28-06-2019,62,Greed
+27-06-2019,92,Extreme Greed
+26-06-2019,95,Extreme Greed
+25-06-2019,87,Extreme Greed
+24-06-2019,80,Extreme Greed
+23-06-2019,84,Extreme Greed
+22-06-2019,83,Extreme Greed
+21-06-2019,84,Extreme Greed
+20-06-2019,81,Extreme Greed
+19-06-2019,82,Extreme Greed
+18-06-2019,83,Extreme Greed
+17-06-2019,84,Extreme Greed
+16-06-2019,80,Extreme Greed
+15-06-2019,75,Greed
+14-06-2019,67,Greed
+13-06-2019,63,Greed
+12-06-2019,60,Greed
+11-06-2019,61,Greed
+10-06-2019,46,Fear
+09-06-2019,62,Greed
+08-06-2019,62,Greed
+07-06-2019,27,Fear
+06-06-2019,34,Fear
+05-06-2019,27,Fear
+04-06-2019,42,Fear
+03-06-2019,66,Greed
+02-06-2019,63,Greed
+01-06-2019,62,Greed
+31-05-2019,61,Greed
+30-05-2019,73,Greed
+29-05-2019,71,Greed
+28-05-2019,71,Greed
+27-05-2019,70,Greed
+26-05-2019,67,Greed
+25-05-2019,69,Greed
+24-05-2019,64,Greed
+23-05-2019,65,Greed
+22-05-2019,69,Greed
+21-05-2019,68,Greed
+20-05-2019,73,Greed
+19-05-2019,70,Greed
+18-05-2019,67,Greed
+17-05-2019,65,Greed
+16-05-2019,75,Greed
+15-05-2019,77,Extreme Greed
+14-05-2019,78,Extreme Greed
+13-05-2019,78,Extreme Greed
+12-05-2019,75,Greed
+11-05-2019,76,Extreme Greed
+10-05-2019,71,Greed
+09-05-2019,69,Greed
+08-05-2019,63,Greed
+07-05-2019,69,Greed
+06-05-2019,57,Greed
+05-05-2019,67,Greed
+04-05-2019,66,Greed
+03-05-2019,63,Greed
+02-05-2019,50,Neutral
+01-05-2019,51,Neutral
+30-04-2019,42,Fear
+29-04-2019,42,Fear
+28-04-2019,40,Fear
+27-04-2019,42,Fear
+26-04-2019,41,Fear
+25-04-2019,58,Greed
+24-04-2019,65,Greed
+23-04-2019,68,Greed
+22-04-2019,61,Greed
+21-04-2019,62,Greed
+20-04-2019,62,Greed
+19-04-2019,61,Greed
+18-04-2019,64,Greed
+17-04-2019,61,Greed
+16-04-2019,50,Neutral
+15-04-2019,60,Greed
+14-04-2019,51,Neutral
+13-04-2019,62,Greed
+12-04-2019,42,Fear
+11-04-2019,65,Greed
+10-04-2019,62,Greed
+09-04-2019,64,Greed
+08-04-2019,65,Greed
+07-04-2019,69,Greed
+06-04-2019,65,Greed
+05-04-2019,59,Greed
+04-04-2019,61,Greed
+03-04-2019,71,Greed
+02-04-2019,60,Greed
+01-04-2019,62,Greed
+31-03-2019,56,Greed
+30-03-2019,57,Greed
+29-03-2019,50,Neutral
+28-03-2019,49,Neutral
+27-03-2019,44,Fear
+26-03-2019,43,Fear
+25-03-2019,46,Fear
+24-03-2019,44,Fear
+23-03-2019,50,Neutral
+22-03-2019,56,Greed
+21-03-2019,62,Greed
+20-03-2019,55,Greed
+19-03-2019,56,Greed
+18-03-2019,56,Greed
+17-03-2019,58,Greed
+16-03-2019,54,Neutral
+15-03-2019,55,Greed
+14-03-2019,55,Greed
+13-03-2019,54,Neutral
+12-03-2019,56,Greed
+11-03-2019,56,Greed
+10-03-2019,55,Greed
+09-03-2019,55,Greed
+08-03-2019,54,Neutral
+07-03-2019,56,Greed
+06-03-2019,42,Fear
+05-03-2019,35,Fear
+04-03-2019,36,Fear
+03-03-2019,44,Fear
+02-03-2019,41,Fear
+01-03-2019,42,Fear
+28-02-2019,39,Fear
+27-02-2019,39,Fear
+26-02-2019,40,Fear
+25-02-2019,47,Neutral
+24-02-2019,69,Greed
+23-02-2019,63,Greed
+22-02-2019,61,Greed
+21-02-2019,59,Greed
+20-02-2019,59,Greed
+19-02-2019,65,Greed
+18-02-2019,63,Greed
+17-02-2019,41,Fear
+17-02-2019,38,Fear
+16-02-2019,43,Fear
+15-02-2019,43,Fear
+14-02-2019,48,Neutral
+13-02-2019,48,Neutral
+12-02-2019,38,Fear
+11-02-2019,46,Fear
+10-02-2019,40,Fear
+09-02-2019,42,Fear
+08-02-2019,37,Fear
+07-02-2019,18,Extreme Fear
+06-02-2019,14,Extreme Fear
+05-02-2019,21,Extreme Fear
+04-02-2019,27,Fear
+03-02-2019,19,Extreme Fear
+02-02-2019,22,Extreme Fear
+01-02-2019,23,Extreme Fear
+31-01-2019,17,Extreme Fear
+30-01-2019,15,Extreme Fear
+30-01-2019,22,Extreme Fear
+29-01-2019,21,Extreme Fear
+28-01-2019,35,Fear
+27-01-2019,39,Fear
+26-01-2019,41,Fear
+25-01-2019,35,Fear
+24-01-2019,37,Fear
+23-01-2019,33,Fear
+22-01-2019,27,Fear
+21-01-2019,30,Fear
+20-01-2019,35,Fear
+19-01-2019,31,Fear
+18-01-2019,29,Fear
+17-01-2019,28,Fear
+16-01-2019,24,Extreme Fear
+15-01-2019,27,Fear
+14-01-2019,16,Extreme Fear
+13-01-2019,21,Extreme Fear
+12-01-2019,22,Extreme Fear
+11-01-2019,19,Extreme Fear
+10-01-2019,37,Fear
+09-01-2019,42,Fear
+08-01-2019,39,Fear
+07-01-2019,39,Fear
+06-01-2019,31,Fear
+05-01-2019,36,Fear
+04-01-2019,48,Neutral
+03-01-2019,33,Fear
+02-01-2019,30,Fear
+01-01-2019,24,Extreme Fear
+31-12-2018,26,Fear
+30-12-2018,23,Extreme Fear
+29-12-2018,24,Extreme Fear
+28-12-2018,21,Extreme Fear
+27-12-2018,29,Fear
+26-12-2018,26,Fear
+25-12-2018,33,Fear
+24-12-2018,25,Extreme Fear
+23-12-2018,31,Fear
+22-12-2018,28,Fear
+21-12-2018,35,Fear
+20-12-2018,27,Fear
+19-12-2018,21,Extreme Fear
+18-12-2018,23,Extreme Fear
+17-12-2018,17,Extreme Fear
+16-12-2018,13,Extreme Fear
+15-12-2018,11,Extreme Fear
+14-12-2018,10,Extreme Fear
+13-12-2018,14,Extreme Fear
+12-12-2018,14,Extreme Fear
+11-12-2018,15,Extreme Fear
+10-12-2018,19,Extreme Fear
+09-12-2018,14,Extreme Fear
+08-12-2018,11,Extreme Fear
+07-12-2018,11,Extreme Fear
+06-12-2018,13,Extreme Fear
+05-12-2018,19,Extreme Fear
+04-12-2018,12,Extreme Fear
+03-12-2018,17,Extreme Fear
+02-12-2018,15,Extreme Fear
+01-12-2018,13,Extreme Fear
+30-11-2018,19,Extreme Fear
+29-11-2018,18,Extreme Fear
+28-11-2018,14,Extreme Fear
+27-11-2018,11,Extreme Fear
+26-11-2018,17,Extreme Fear
+25-11-2018,9,Extreme Fear
+24-11-2018,15,Extreme Fear
+23-11-2018,12,Extreme Fear
+22-11-2018,14,Extreme Fear
+21-11-2018,15,Extreme Fear
+20-11-2018,21,Extreme Fear
+19-11-2018,28,Fear
+18-11-2018,26,Fear
+17-11-2018,24,Extreme Fear
+16-11-2018,23,Extreme Fear
+15-11-2018,28,Fear
+14-11-2018,49,Neutral
+13-11-2018,56,Greed
+12-11-2018,52,Neutral
+11-11-2018,54,Neutral
+10-11-2018,52,Neutral
+09-11-2018,47,Neutral
+08-11-2018,51,Neutral
+07-11-2018,48,Neutral
+06-11-2018,42,Fear
+05-11-2018,42,Fear
+04-11-2018,41,Fear
+03-11-2018,36,Fear
+02-11-2018,36,Fear
+01-11-2018,29,Fear
+31-10-2018,32,Fear
+30-10-2018,31,Fear
+29-10-2018,34,Fear
+28-10-2018,35,Fear
+27-10-2018,33,Fear
+26-10-2018,29,Fear
+25-10-2018,25,Extreme Fear
+24-10-2018,23,Extreme Fear
+23-10-2018,24,Extreme Fear
+22-10-2018,27,Fear
+21-10-2018,21,Extreme Fear
+20-10-2018,21,Extreme Fear
+19-10-2018,24,Extreme Fear
+18-10-2018,26,Fear
+17-10-2018,23,Extreme Fear
+16-10-2018,24,Extreme Fear
+15-10-2018,20,Extreme Fear
+14-10-2018,18,Extreme Fear
+13-10-2018,15,Extreme Fear
+12-10-2018,13,Extreme Fear
+11-10-2018,19,Extreme Fear
+10-10-2018,28,Fear
+09-10-2018,31,Fear
+08-10-2018,26,Fear
+07-10-2018,29,Fear
+06-10-2018,34,Fear
+05-10-2018,37,Fear
+04-10-2018,29,Fear
+03-10-2018,36,Fear
+02-10-2018,33,Fear
+01-10-2018,35,Fear
+30-09-2018,34,Fear
+29-09-2018,37,Fear
+28-09-2018,42,Fear
+27-09-2018,42,Fear
+26-09-2018,37,Fear
+25-09-2018,37,Fear
+24-09-2018,43,Fear
+23-09-2018,38,Fear
+22-09-2018,35,Fear
+21-09-2018,31,Fear
+20-09-2018,24,Extreme Fear
+19-09-2018,24,Extreme Fear
+18-09-2018,21,Extreme Fear
+17-09-2018,25,Extreme Fear
+16-09-2018,28,Fear
+15-09-2018,24,Extreme Fear
+14-09-2018,23,Extreme Fear
+13-09-2018,20,Extreme Fear
+12-09-2018,14,Extreme Fear
+11-09-2018,18,Extreme Fear
+10-09-2018,15,Extreme Fear
+09-09-2018,13,Extreme Fear
+08-09-2018,18,Extreme Fear
+07-09-2018,17,Extreme Fear
+06-09-2018,14,Extreme Fear
+05-09-2018,17,Extreme Fear
+04-09-2018,26,Fear
+03-09-2018,19,Extreme Fear
+02-09-2018,18,Extreme Fear
+01-09-2018,21,Extreme Fear
+31-08-2018,17,Extreme Fear
+30-08-2018,22,Extreme Fear
+29-08-2018,19,Extreme Fear
+28-08-2018,19,Extreme Fear
+27-08-2018,18,Extreme Fear
+26-08-2018,19,Extreme Fear
+25-08-2018,22,Extreme Fear
+24-08-2018,19,Extreme Fear
+23-08-2018,18,Extreme Fear
+22-08-2018,21,Extreme Fear
+21-08-2018,19,Extreme Fear
+20-08-2018,26,Fear
+19-08-2018,27,Fear
+18-08-2018,24,Extreme Fear
+17-08-2018,19,Extreme Fear
+16-08-2018,21,Extreme Fear
+15-08-2018,18,Extreme Fear
+14-08-2018,16,Extreme Fear
+13-08-2018,21,Extreme Fear
+12-08-2018,18,Extreme Fear
+11-08-2018,18,Extreme Fear
+10-08-2018,21,Extreme Fear
+09-08-2018,19,Extreme Fear
+08-08-2018,23,Extreme Fear
+07-08-2018,25,Extreme Fear
+06-08-2018,25,Extreme Fear
+05-08-2018,23,Extreme Fear
+04-08-2018,31,Fear
+03-08-2018,36,Fear
+02-08-2018,39,Fear
+01-08-2018,39,Fear
+31-07-2018,48,Neutral
+30-07-2018,53,Neutral
+29-07-2018,54,Neutral
+28-07-2018,54,Neutral
+27-07-2018,47,Neutral
+26-07-2018,53,Neutral
+25-07-2018,54,Neutral
+24-07-2018,49,Neutral
+23-07-2018,44,Fear
+22-07-2018,46,Fear
+21-07-2018,43,Fear
+20-07-2018,47,Neutral
+19-07-2018,44,Fear
+18-07-2018,42,Fear
+17-07-2018,39,Fear
+16-07-2018,36,Fear
+15-07-2018,32,Fear
+14-07-2018,29,Fear
+13-07-2018,29,Fear
+12-07-2018,33,Fear
+11-07-2018,29,Fear
+10-07-2018,37,Fear
+09-07-2018,39,Fear
+08-07-2018,38,Fear
+07-07-2018,34,Fear
+06-07-2018,34,Fear
+05-07-2018,37,Fear
+04-07-2018,33,Fear
+03-07-2018,31,Fear
+02-07-2018,27,Fear
+01-07-2018,27,Fear
+30-06-2018,22,Extreme Fear
+29-06-2018,16,Extreme Fear
+28-06-2018,20,Extreme Fear
+27-06-2018,18,Extreme Fear
+26-06-2018,21,Extreme Fear
+25-06-2018,16,Extreme Fear
+24-06-2018,15,Extreme Fear
+23-06-2018,17,Extreme Fear
+22-06-2018,28,Fear
+21-06-2018,37,Fear
+20-06-2018,34,Fear
+19-06-2018,32,Fear
+18-06-2018,27,Fear
+17-06-2018,23,Extreme Fear
+16-06-2018,22,Extreme Fear
+15-06-2018,26,Fear
+14-06-2018,17,Extreme Fear
+13-06-2018,19,Extreme Fear
+12-06-2018,19,Extreme Fear
+11-06-2018,15,Extreme Fear
+10-06-2018,24,Extreme Fear
+09-06-2018,39,Fear
+08-06-2018,40,Fear
+07-06-2018,38,Fear
+06-06-2018,42,Fear
+05-06-2018,26,Fear
+04-06-2018,41,Fear
+03-06-2018,40,Fear
+02-06-2018,27,Fear
+01-06-2018,24,Extreme Fear
+31-05-2018,25,Extreme Fear
+30-05-2018,38,Fear
+29-05-2018,16,Extreme Fear
+28-05-2018,22,Extreme Fear
+27-05-2018,19,Extreme Fear
+26-05-2018,23,Extreme Fear
+25-05-2018,25,Extreme Fear
+24-05-2018,27,Fear
+23-05-2018,26,Fear
+22-05-2018,30,Fear
+21-05-2018,41,Fear
+20-05-2018,32,Fear
+19-05-2018,31,Fear
+18-05-2018,37,Fear
+17-05-2018,31,Fear
+16-05-2018,32,Fear
+15-05-2018,40,Fear
+14-05-2018,40,Fear
+13-05-2018,40,Fear
+12-05-2018,44,Fear
+11-05-2018,41,Fear
+10-05-2018,63,Greed
+09-05-2018,53,Neutral
+08-05-2018,62,Greed
+07-05-2018,56,Greed
+06-05-2018,67,Greed
+05-05-2018,63,Greed
+04-05-2018,56,Greed
+03-05-2018,55,Greed
+02-05-2018,52,Neutral
+01-05-2018,56,Greed
+30-04-2018,59,Greed
+29-04-2018,61,Greed
+28-04-2018,54,Neutral
+27-04-2018,55,Greed
+26-04-2018,47,Neutral
+25-04-2018,64,Greed
+24-04-2018,29,Fear
+23-04-2018,28,Fear
+22-04-2018,31,Fear
+21-04-2018,32,Fear
+20-04-2018,26,Fear
+19-04-2018,25,Extreme Fear
+18-04-2018,24,Extreme Fear
+17-04-2018,26,Fear
+13-04-2018,23,Extreme Fear
+12-04-2018,18,Extreme Fear
+11-04-2018,20,Extreme Fear
+10-04-2018,18,Extreme Fear
+09-04-2018,21,Extreme Fear
+08-04-2018,17,Extreme Fear
+07-04-2018,20,Extreme Fear
+06-04-2018,19,Extreme Fear
+05-04-2018,17,Extreme Fear
+04-04-2018,22,Extreme Fear
+03-04-2018,22,Extreme Fear
+02-04-2018,11,Extreme Fear
+01-04-2018,16,Extreme Fear
+31-03-2018,16,Extreme Fear
+30-03-2018,12,Extreme Fear
+29-03-2018,18,Extreme Fear
+28-03-2018,24,Extreme Fear
+27-03-2018,24,Extreme Fear
+26-03-2018,31,Fear
+25-03-2018,30,Fear
+24-03-2018,32,Fear
+23-03-2018,28,Fear
+22-03-2018,36,Fear
+21-03-2018,36,Fear
+20-03-2018,37,Fear
+19-03-2018,29,Fear
+18-03-2018,29,Fear
+17-03-2018,31,Fear
+16-03-2018,33,Fear
+15-03-2018,32,Fear
+14-03-2018,40,Fear
+13-03-2018,41,Fear
+12-03-2018,41,Fear
+11-03-2018,40,Fear
+10-03-2018,39,Fear
+09-03-2018,37,Fear
+08-03-2018,39,Fear
+07-03-2018,37,Fear
+06-03-2018,59,Greed
+05-03-2018,55,Greed
+04-03-2018,44,Fear
+03-03-2018,56,Greed
+02-03-2018,47,Neutral
+01-03-2018,38,Fear
+28-02-2018,41,Fear
+27-02-2018,44,Fear
+26-02-2018,37,Fear
+25-02-2018,33,Fear
+24-02-2018,31,Fear
+23-02-2018,39,Fear
+22-02-2018,44,Fear
+21-02-2018,54,Neutral
+20-02-2018,74,Greed
+19-02-2018,67,Greed
+18-02-2018,63,Greed
+17-02-2018,74,Greed
+16-02-2018,67,Greed
+15-02-2018,71,Greed
+14-02-2018,55,Greed
+13-02-2018,35,Fear
+12-02-2018,42,Fear
+11-02-2018,31,Fear
+10-02-2018,54,Neutral
+09-02-2018,44,Fear
+08-02-2018,30,Fear
+07-02-2018,36,Fear
+06-02-2018,8,Extreme Fear
+05-02-2018,11,Extreme Fear
+04-02-2018,24,Fear
+03-02-2018,40,Fear
+02-02-2018,15,Extreme Fear
+01-02-2018,30,Fear
