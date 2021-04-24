@@ -1,0 +1,24 @@
+Network
+---
+Name: zbnet
+Chain ID: 919
+Consensus: Proof of authority
+---
+
+firstNode
+---
+-Public Key: 0x7507c9dC90C005650cd85482724D6566E0C3b9FB
+-Private Key: d2437f6cd09788d3a9b6b201f43d919cf568fd07ae1444ec8168163d1cb0d799
+-Password: firstNode
+-enode://7db8c8e49f97a92abc3958b49a5294fca2db324fe6d64b18ab8064d2c62ebd476b1e6fbfb5666b90ae57e1f1e31eb82e6b8af73e713bccc5ea10ff98ef825bcc@127.0.0.1:30303
+-Start Node: ./geth --datadir firstNode --unlock '0x7507c9dC90C005650cd85482724D6566E0C3b9FB' --password 'password1.txt' --allow-insecure-unlock --mine --miner.threads 1 --rpc
+---
+
+secondNode
+---
+-Public Key: 0x9227D3Db09684bb3D43997d603477FA1B7c5F411
+-Private Key: 1333bff1d5a4d51566d3dd52e1bdc0ff2c86f9c0e6bb9c57f4c6f2dcbe301359
+-Password: secondNode
+-enode://f80b4c5886a60d3d93fb442dfefb099b42f20a2d5cd05a2d9556076a7fa6f2924bd076910d335a5554d3d933e3c0990aca415ba4028a084bd92feaac6ce6fbe9@127.0.0.1:30304
+-Start Node: ./geth --datadir secondNode --port 30304  --bootnodes "enode://7db8c8e49f97a92abc3958b49a5294fca2db324fe6d64b18ab8064d2c62ebd476b1e6fbfb5666b90ae57e1f1e31eb82e6b8af73e713bccc5ea10ff98ef825bcc@127.0.0.1:30303" --ipcdisable --mine --miner.threads 1 --unlock '0x9227D3Db09684bb3D43997d603477FA1B7c5F411' --password 'password2.txt'  --allow-insecure-unlock
+---
