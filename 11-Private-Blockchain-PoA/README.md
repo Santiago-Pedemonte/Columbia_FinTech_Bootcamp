@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # How to use PoA Blockchain
 
 **Note:** Following this guide will create two full nodes with mining capabilities and only one of those with an open RPC port to connect them.
@@ -9,14 +9,44 @@ This is a fully working implementation of a Proof-of-authority Blockchain. A tra
 
 You can corroborate the public addresses of the nodes with the ones included in the `Keys, etc....txt` file.
 
-## Network:
-**Note:** The relevant information for this guide is also included in the `Keys, etc....txt` file.
+## Features
+
+### Network
+
+Each network (blockchain) has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the `networkname.json` file (substituting networkname for the actual name of the network).
+
+![Network Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/bcFilesSS.png)
+
+The `networkname.json` file will look something like this:
 
 ![networkPoA](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/zbnetConfigSS.png)
 
+
 * In the `alloc` section, we can see the addresses of our two nodes. These acounts need to be prefunded since there are no mining rewards in a PoA Blockchain.
 
-## Starting the nodes, ports, and connections:
+Below this 'network summary', you'll find the prefunded and precompiled accounts' public keys. The public keys for the nodes will be all the way at the bottom of this list.
+
+**Note:** The relevant information for this guide is also included in the `Keys, etc....txt` file.
+
+### Nodes
+
+Each Blockchain contains two node files. These are full nodes that have already been initialized on the network- for more information on node creation and initialization, please refer to the [node guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Node%20Creation%20and%20Initialization.md).
+
+The first and second nodes have been conveniently-named `firstNode` and `secondNode`, respectively. Each of these nodes had a personal account created at the same time they were generated. The key pair for accessing the nodes' wallets (in the appropriate network) can be found in the relevant `Keys, etc....txt` file. Likewise, when using [MyCrypto](https://mycrypto.com/), one can also use the keystore file located in each of the nodes' folders.
+
+![Keys,etc...](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/keyEtcSS.png)
+![Node Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/nodeFilesSS.png)
+
+The commands for starting each of the nodes are also included in the `Keys, etc....txt` file. The only element that may change when hosting the blockchain on another local host is the enode- if so, simply copy and paste the first node's new enode:// address in the second node's start command.
+
+![firstEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/firstEnodeSS.png)
+![secondEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondEnodeSS.png)
+
+## How to use
+
+**Note: Geth should already be installed prior to booting up and using the network. Please refer to the [install guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md#installing-go-ethereum-tools)**
+
+### Starting the nodes, ports, and connections:
 
 Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and follow the next steps.
 
@@ -80,6 +110,3 @@ The output of the second node should show information about `Importing block seg
   ```bash
   rm -Rf firstNode/geth secondNode/geth
   ```
-=======
-
->>>>>>> 928f7cc285acdb69eafc9498dc96c91c8ab8a7e4
