@@ -43,7 +43,7 @@ To execute a transaction after you have generated the account object, call the `
 
 Once the transaction has been executed, use a block explorer or TxStatus to verify that the transaction went through:
 
-![successfulTransact-BTCTEST](Images/successfulTransactionBtctest)
+![successfulTransact-BTCTEST](Images/successfulTransactionBtctest.png)
 
 **Note:** The reference to the `coins` dictionary points to the 'btc-test' key, to the first account's [0] private key [3].
 
@@ -54,6 +54,6 @@ To execute a transaction after you have generated the account object, call the `
 
 Once the transaction has been executed, use a block explorer or TxStatus to verify that the transaction went through:
 
-![successfulTransact-ETH](Images/successfulTransactionEth)
+![successfulTransact-ETH](Images/successfulTransactionEth.png)
 
 **Note:** The reference to the `coins` dictionary points to the 'eth' key, to the first account's [0] private key [3].
