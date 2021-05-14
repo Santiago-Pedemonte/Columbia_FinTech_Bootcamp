@@ -43,6 +43,12 @@ In this contract, we manage an employee's "deferred equity incentive plan" in wh
 
 * `distributed_shares` keeps track of the employee's shares ytd.
 
+## Deploying the Contracts
+
+The contracts were deployed on the Kovan Test Network. The relevant contract addresses can be found at the bottom of each contract under `Original deploy address`.
+
+This address can be used to access the contract's functionality with any compatible software.
+
 ## Resources
 
 For some succinct and straightforward code snips, check out [Solidity By Example](https://github.com/raineorshine/solidity-by-example)
