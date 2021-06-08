@@ -1,0 +1,33 @@
+{
+  "name": "martian-market",
+  "version": "1.0.0",
+  "description": "A decentralized Martian Land Market",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "parcel -d build/frontend index.html",
+    "build": "parcel build -d build/frontend --public-url /martian-market/ index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build/frontend",
+    "prepush": "npm run deploy",
+    "test": "truffle test"
+  },
+  "author": "Alec M. Wantoch Davis",
+  "license": "ISC",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0",
+    "cssnano": "^4.1.10",
+    "gh-pages": "^2.0.1",
+    "openzeppelin-solidity": "^2.3.0",
+    "parcel": "^1.12.3",
+    "truffle": "^5.0.28",
+    "truffle-privatekey-provider": "^1.3.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "web3": "^1.0.0-beta.55",
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
